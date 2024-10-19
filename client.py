@@ -1,8 +1,3 @@
-"""EX 2.6 client implementation
-   Author:
-   Date:
-"""
-
 import socket
 import time
 
