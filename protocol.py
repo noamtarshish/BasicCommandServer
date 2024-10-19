@@ -1,7 +1,3 @@
-"""EX 2.6 protocol implementation
-   Author:
-   Date:
-"""
 
 LENGTH_FIELD_SIZE = 2
 PORT = 8820
