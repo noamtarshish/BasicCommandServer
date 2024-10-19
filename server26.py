@@ -1,7 +1,3 @@
-"""EX 2.6 server implementation
-   Author:
-   Date:
-"""
 import random
 import socket
 import time
